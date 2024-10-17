@@ -11,6 +11,10 @@ query GetB2BSettings {
     uiSettings {
       showModal
       clearCart
+      topBar {
+        name
+        hexColor
+      }
     }
     organizationCustomFields {
       name

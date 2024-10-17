@@ -462,6 +462,15 @@ export const organizationSettingsMessages = defineMessages({
   clearCart: {
     id: `${adminPrefix}organization-settings-clearCart`,
   },
+  formColorPickerLabel: {
+    id: `${adminPrefix}warning-topbar-inative-org.form.color-picker-label`,
+  },
+  formTextareaLabel: {
+    id: `${adminPrefix}warning-topbar-inative-org.form.textarea-label`,
+  },
+  formTextareaHelpText: {
+    id: `${adminPrefix}warning-topbar-inative-org.form.textarea-help-text`,
+  },
 })
 
 export const organizationCustomFieldsMessages = defineMessages({

@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+- Add topbar and allow customization of content and colors by the merchant via storeframework.
+
 ## [1.35.1] - 2024-10-01
 
 ## [1.35.0] - 2024-09-10
